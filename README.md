@@ -1,7 +1,7 @@
 # OCRCamera
 A learning project of the Software Engineering course by the University of Padua (academic year 2018-2019).  
 
-## My work during the course (the last is better)
+## My code during the course (the last is better)
 ### First code review session
 #### My code reviewed
 * https://github.com/PrandiniUniPD/OCRCamera/pull/43
