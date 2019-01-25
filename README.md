@@ -4,7 +4,7 @@ A learning project of the Software Engineering course by the University of Padua
 ## About the course: "not only coding"
 The students' class was split in four working team of about five people.  
 The framework used was the Scrum one and the aim was developing an android app together using software engineering methods.  
-The official tools for making things done were GitHub and Slack (with the support of the GitHub project section's Kanban board).  
+The official tools for making things done were been GitHub and Slack (with the support of the GitHub project section's Kanban board).  
 
 ## Code developed by @PietroPrandini
 ### Presented at the exam
