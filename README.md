@@ -16,5 +16,5 @@ A learning project of the Software Engineering course by the University of Padua
 #### Code reviewed by me
 * https://github.com/PrandiniUniPD/OCRCamera/pull/113
 * https://github.com/PrandiniUniPD/OCRCamera/pull/101
-### Code presented to the exam
+### Code presented at the exam
 * https://github.com/PrandiniUniPD/OCRCamera/pull/140  
