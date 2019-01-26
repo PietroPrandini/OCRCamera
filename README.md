@@ -6,21 +6,21 @@ The students' class was split in four working team of about five people.
 The framework used was the Scrum one and the aim was developing an android app together using software engineering methods.  
 The official tools for making things done were been GitHub and Slack (with the support of the GitHub project section's Kanban board).  
 
-## Code developed by @PietroPrandini
+## The work of Pietro Prandini
 ### Presented at the exam
 * https://github.com/PrandiniUniPD/OCRCamera/pull/140  
 ### During the course
 #### First code review session
-##### @PietroPrandini's code reviewed
+##### Pietro Prandini's code reviewed
 * https://github.com/PrandiniUniPD/OCRCamera/pull/43
 * https://github.com/PrandiniUniPD/OCRCamera/pull/44
-##### Code reviewed by @PietroPrandini
+##### Code of others reviewed by Pietro Prandini
 * https://github.com/PrandiniUniPD/OCRCamera/pull/71
 * https://github.com/PrandiniUniPD/OCRCamera/pull/64
 #### Second code review session
-##### @PietroPrandini's code reviewed
+##### Pietro Prandini's code reviewed
 * https://github.com/PrandiniUniPD/OCRCamera/pull/107
 * https://github.com/PrandiniUniPD/OCRCamera/pull/108
-##### Code reviewed by @PietroPrandini
+##### Code of others reviewed by Pietro Prandini
 * https://github.com/PrandiniUniPD/OCRCamera/pull/113
 * https://github.com/PrandiniUniPD/OCRCamera/pull/101
