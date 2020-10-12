@@ -2,7 +2,7 @@
 A learning project of the Software Engineering course by the University of Padua (academic year 2018-2019).  
 
 <p align="center">
-    <img src="media/main_app.gif" width="411">
+    <img src="media/main_app.gif" width="400px">
 </p>
 
 ## About the course: "not only coding"
