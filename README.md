@@ -1,5 +1,6 @@
 # OCRCamera
 A learning project of the Software Engineering course by the University of Padua (academic year 2018-2019).  
+![main_app_gif](media/main_app.gif)
 
 ## About the course: "not only coding"
 The students' class was split in four working team of about five people.  
